@@ -1,0 +1,6 @@
+conanbuildinfo.cmake
+conanbuildinfo.txt
+conaninfo.txt
+*~
+activate_run.*
+deactivate_run.*
